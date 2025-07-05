@@ -24,7 +24,9 @@ This project explores building, training, and evaluating **Convolutional Neural 
 
 ## 📅 Dataset
 
-- **Source:** CIFAR-10 (10 classes, 60,000 images)
+- **Source:** CIFAR-10 (10 classes, 60,0CIFAR-10 (10 classes, 60,000 imag00 images)
+- **Test_size:**  15% of images
+- **Train_size:**  85% of images
 - **Image Size:** 32x32x3 (RGB)
 - **Preprocessing:** Normalized to pixel values between 0 and 1
 
